@@ -1,0 +1,36 @@
+.wrapper {
+    border-width:2px;
+    border-style: solid;
+    border-color:#472bad;;
+    text-align: center;
+    color: #472bad;
+    margin: auto;
+    width: 50%;
+    font-size: 1.4em;
+    background-color: rgba(2, 12, 45, 0.9);
+}
+
+button {
+    background-color: #4CAF50; 
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-size: 1.5em;
+    
+  }
+
+  .button1 {
+    background-color: white; 
+    color: black;
+    border: 2px solid #472bad;
+  }
+
+  .button1:hover {
+    background-color: #472bad; 
+    color: white;
+  }
