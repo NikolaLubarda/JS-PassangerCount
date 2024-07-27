@@ -1,1 +1,1 @@
-[Passanger Count] (https://nikolalubarda.github.io/JS-PassangerCount/)
+[Passanger Count](https://nikolalubarda.github.io/JS-PassangerCount/)
